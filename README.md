@@ -1,7 +1,7 @@
 # WireGuard
 WireGuard + WGDashboard + DNSCrypt
 
-recommended OS: Ubuntu 20.04, Ubuntu 22.04
+Recommended OS: Ubuntu 20.04, Ubuntu 22.04
 
 
 Install:
